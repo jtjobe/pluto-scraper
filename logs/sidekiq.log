@@ -1,0 +1,10 @@
+2018-02-04T16:13:04.096Z 42423 TID-ovkvv1y2z INFO: Running in ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin14]
+2018-02-04T16:13:04.096Z 42423 TID-ovkvv1y2z INFO: See LICENSE and the LGPL-3.0 for licensing details.
+2018-02-04T16:13:04.096Z 42423 TID-ovkvv1y2z INFO: Upgrade to Sidekiq Pro for more features and support: http://sidekiq.org
+2018-02-04T16:13:04.096Z 42423 TID-ovkvv1y2z INFO: Booting Sidekiq 5.1.0 with redis options {:id=>"Sidekiq-server-PID-42423", :url=>nil}
+2018-02-04T16:13:35.954Z 42423 TID-ovkvxw677 ScraperWorker JID-1ed9a6743def4f5086fc1eea INFO: start
+SUP MOFO
+2018-02-04T16:13:35.954Z 42423 TID-ovkvxw677 ScraperWorker JID-1ed9a6743def4f5086fc1eea INFO: done: 0.0 sec
+2018-02-04T16:13:36.731Z 42423 TID-ovkvxw7tn ScraperWorker JID-b8014d5f0966ae3d07494c6e INFO: start
+SUP MOFO
+2018-02-04T16:13:36.732Z 42423 TID-ovkvxw7tn ScraperWorker JID-b8014d5f0966ae3d07494c6e INFO: done: 0.001 sec
